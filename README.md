@@ -53,19 +53,13 @@ Start server
 
 ## Links
 
-[React] (https://es.reactjs.org/) - Frontend Framework
+[HTML] (https://html5.org/) - HTML5
 
-[Vite] (https://vitejs.dev/) - Frontend Compiler
-
-[Tailwind] (https://tailwindcss.com/) - CSS Styles
-
-[Firebase] (https://firebase.google.com/) - Base de Datos
-
-[Sweet Alert] (https://www.npmjs.com/package/react-toastify) - Notificaciones
+[CSS] (https://www.css3.com/) - CSS STYLE INLINE
 
 ## Licencia :page_facing_up:
 
-💡 Este proyecto está a disposición de quien quiera utilizarlo para fines académicos.
+💡 Jeronimo Alderete - Desarrollo Liebre Web Development.
 
 ## Contacto :envelope_with_arrow:
 
