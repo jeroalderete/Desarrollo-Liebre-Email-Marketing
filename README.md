@@ -46,11 +46,9 @@ Start server
 
 ![](https://i.ibb.co/dcZJYGh/batacazo3.png)
 ![](https://i.ibb.co/G98Md7n/batacazo2.png)
-![](https://i.ibb.co/x10WCNM/batacazo4.png)
 
 ![](https://i.ibb.co/StDwffG/poral11.png)
 
-![](https://i.ibb.co/nB0WCJm/poral33.png)
 ![](https://i.ibb.co/phggt2V/poral44.png)
 
 ## Links
